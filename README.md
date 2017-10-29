@@ -7,4 +7,4 @@ This is the bad example:
  * Our code doesn't even take into account the possibility that we may want to implement different algorithms for our trip advisor.
 
 
-Let's fix that in [step 2](https://github.com/csc301-fall2014/AbstractFactoryExample/tree/step2).
+Let's fix that in [step 2](../../tree/step2).
