@@ -12,4 +12,4 @@ The problem is that we "cheated":
 
 To make the point above clearer, you can think of it this way: If we delete one of the implementations (e.g. `TripAdvisor2`), then `TripAdvisorFactory` will not compile, and, therefore, `Main` will not compile.
 
-Let's fix this problem in [step 4](https://github.com/csc301-fall2014/AbstractFactoryExample/tree/step4).
+Let's fix this problem in [step 4](../../tree/step4).
