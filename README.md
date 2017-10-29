@@ -13,6 +13,6 @@ Our [`Main.java`](src/csc301/abstractFactoryExample/Main.java) has very clear re
 This solution is a good example of an implementation of the abstract factory pattern.     
 
 We can also do something cool, and remove the explicit dependency on `TripAdvisorFactoryImpl1` in `Main`.
-Let's see it in [step 5](https://github.com/csc301-fall2014/AbstractFactoryExample/tree/step5).
+Let's see it in [step 5](../../tree/step5).
 
  
