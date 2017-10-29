@@ -14,4 +14,4 @@ These dependencies exist because the code in `Main` is responsible for instantia
 Therefore, it has to know about any implementation that it might use.
 
 We will solve this problem by creating a `TripAdvisorFactory` class, and give it the responsibility of instantiating `TripAdvisor`s.     
-Let's see how this is done in [step 3](https://github.com/csc301-fall2014/AbstractFactoryExample/tree/step3).
+Let's see how this is done in [step 3](../../tree/step3).
