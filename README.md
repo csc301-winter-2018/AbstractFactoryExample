@@ -3,7 +3,7 @@
 This is much better:
 
  * We created the [`TripAdvisor.java`](src/csc301/abstractFactoryExample/tripAdvisor/TripAdvisor.java) interface.
- * We created two dummy implemntations, [`TripAdvisor1.java`](src/csc301/abstractFactoryExample/tripAdvisor/TripAdvisor1.java) and [`TripAdvisor2.java`](src/csc301/abstractFactoryExample/tripAdvisor/TripAdvisor2.java).
+ * We created two dummy implementations, [`TripAdvisor1.java`](src/csc301/abstractFactoryExample/tripAdvisor/TripAdvisor1.java) and [`TripAdvisor2.java`](src/csc301/abstractFactoryExample/tripAdvisor/TripAdvisor2.java).
  * Our code in [`Main.java`](src/csc301/abstractFactoryExample/Main.java) now declares the `advisor` variable as `TripAdvisor`.
  
 There is still a problem though ...
